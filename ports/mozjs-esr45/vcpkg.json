@@ -1,0 +1,12 @@
+{
+    "name": "mozjs-esr45",
+    "version": "4.5.0",
+    "description": "SpiderMonkey JavaScript interpreter",
+    "homepage": "https://github.com/ejt1/spidermonkey-cmake",
+    "dependencies": [
+        {
+            "name": "vcpkg-cmake",
+            "host": true
+        }
+    ]
+}
